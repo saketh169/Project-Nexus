@@ -8,6 +8,7 @@
 
 ## Frontend Packages
 - react-router-dom - Navigation
+- react-redux - Redux bindings
 - axios - HTTP client
 - tailwindcss - Styling
 - three.js - 3D animations
@@ -29,8 +30,16 @@
 
 ## Database & Cloud
 - **MongoDB Atlas** - Cloud database (all environments)
+- **MongoDB Compass** - MongoDB GUI tool (local & cloud connection)
 
 ## Deployment
 - **Render** - Full-stack deployment
 - **Vercel** - Frontend & serverless backend
 - **Railway** - Full-stack alternative
+
+## Development Tools
+- **Git** - Version control
+- **VS Code** - Code editor
+- **Swagger UI** - API testing
+- **Vite** - Frontend build tool
+- **ESLint** - Code linting
