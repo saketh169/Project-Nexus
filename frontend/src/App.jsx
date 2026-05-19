@@ -3,7 +3,9 @@ function App() {
  
   return(
     <>
-    <h1>Welocme to Nexus App ! </h1>
+   <h1 class="text-2xl font-bold underline">
+    Welcome to the Nexus App !
+  </h1>
     </>
   )
 }
